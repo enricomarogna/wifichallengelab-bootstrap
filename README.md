@@ -38,6 +38,7 @@ This is **not a fork** of the upstream project. It's a bootstrap guide + fix to 
 ```bash
 git clone https://github.com/enricomarogna/wifichallengelab-bootstrap
 cd wifichallengelab-bootstrap
+chmod +x setup.sh
 sudo ./setup.sh
 ```
 
