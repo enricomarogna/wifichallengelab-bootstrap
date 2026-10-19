@@ -164,8 +164,4 @@ Check `sudo docker logs WiFiChallengeLab-APs --tail 100` and confirm `wlan_confi
 
 ## License
 
-MIT (scripts in this repo only).
-
----
-
-Want me to write the `setup.sh` next (idempotent — checks whether the mount is already present before running `sed`, verifies the module is loaded with the right `radios=` value, and detects Kali vs generic Debian)? Just say the word.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
